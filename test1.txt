@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AA29-6CB2
+
+ Directory of C:\Users\USER\Desktop\MY first project
+
+01/24/2021  06:38 PM    <DIR>          .
+01/24/2021  06:38 PM    <DIR>          ..
+01/24/2021  06:38 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  152,307,765,248 bytes free
